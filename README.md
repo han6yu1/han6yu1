@@ -1,5 +1,6 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&width=435&lines=Hello%2C+It's+Hanbyul.;Welcome+to+my+ground!" alt="Typing SVG" /></a>
+<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&width=435&lines=Hello%2C+It's+Hanbyul.;Welcome+to+my+ground!" alt="Typing SVG" /></a>
 
 <!--
 **han6yu1/han6yu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+
 <div style="font-size:100px">📚 Tech Stack 📚</div>
 <br>
 <div>
