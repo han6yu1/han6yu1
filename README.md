@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+#
 <div style="font-size:100px">📚 Tech Stack 📚</div>
 <br>
 <div>
@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=han6yu1&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han6yu1&layout=compact">
-
+![Hanbyul's github stats](https://github-readme-stats.vercel.app/api?username=han6yu1&show_icons=true&theme=city_lights)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=han6yu1&layout=compact&theme=city_lights)
 
 
