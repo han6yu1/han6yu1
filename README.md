@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han6yu1&layout=compact"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=han6yu1&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han6yu1&layout=compact">
 
 
 
