@@ -1,6 +1,6 @@
 
 <br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&width=435&lines=Hello%2C+It's+Hanbyul.;Welcome+to+my+ground!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&width=435&lines=Hello%2C+It's+Hanbyul!;Welcome+to+my+ground!" alt="Typing SVG" /></a>
 
 <!--
 **han6yu1/han6yu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-<div style="font-size:100px">📚 Tech Stack 📚</div>
+<div style="font-size:100px">📚 Learning 📚</div>
 <br>
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   🛠️ Tools 🛠️
   <br><br>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 </div>
