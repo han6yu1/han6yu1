@@ -48,6 +48,5 @@ Here are some ideas to get you started:
 
 <br><br>
 ![Hanbyul's github stats](https://github-readme-stats.vercel.app/api?username=han6yu1&show_icons=true&theme=city_lights)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=han6yu1&layout=compact&theme=city_lights)
 
 
