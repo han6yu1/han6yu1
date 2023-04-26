@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-<div style="font-size:100px">📚 Learning 📚</div>
+<div style="font-size:100px">📘 Learning</div>
 <br>
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="font-size:100px">
-  🛠️ Tools 🛠️
+  📘 Tools
   <br><br>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
@@ -40,10 +40,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="font-size:100px">
-  📜 Portfolio 📜
+  📘 Portfolio
   <br><br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  
+  <a href = "https://velog.io/@only_byul"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+  <!-- 깃허브 지우고 노션 쓰기--></a>
 </div>
 
 <br><br>
