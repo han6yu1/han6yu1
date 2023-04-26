@@ -43,7 +43,8 @@ Here are some ideas to get you started:
   📘 Portfolio
   <br><br>
   
-  <a href = "https://velog.io/@only_byul"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<a href = "https://velog.io/@only_byul">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
   <!-- 깃허브 지우고 노션 쓰기--></a>
 </div>
