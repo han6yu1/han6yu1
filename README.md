@@ -1,4 +1,3 @@
-<br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=FFBF00&width=435&lines=Hi%2C+There.;It's+Hanbyul!)](https://git.io/typing-svg)
 <!--
 **han6yu1/han6yu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
